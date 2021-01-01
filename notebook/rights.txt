@@ -1,0 +1,67 @@
+
+Dataset: Chrysomelidae of Central Europe
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bird tracking - GPS tracking of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Geographically tagged INSDC sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Xeno-canto - Bird sounds from around the world
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NMNH Paleobiology Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Ecological typology  of waterways, vegetation surveys
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Biodiversity4all Research-Grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum Rotterdam - Specimens
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: My naturesounds - nature observations with sound recordings
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Saltabel - Orthoptera in Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Botany
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Muskrat captures in Flanders, Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tropicos Specimen Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Zomerganzen - Summering geese management and population counts in Flanders, Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Belgian Coccinellidae - Ladybird beetles in Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: EOD - eBird Observation Dataset
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Species observations during citizen science expeditions
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Pl@ntNet observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Broedvogels - Atlas of the breeding birds in Flanders 2000-2002
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Waarnemingen.be - Non-native plant occurrences in Flanders and the Brussels Capital Region, Belgium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Pl@ntNet automatically identified occurrences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Meise Botanic Garden Herbarium (BR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Plants galls
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Florabank1 - A grid-based database on vascular plant distribution in the northern part of Belgium (Flanders and the Brussels Capital region)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Miscellaneous Vascular Plants
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bird Monitoring 2017, Meise Botanic Garden
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Watervogels - Wintering waterbirds in Flanders, Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Waarnemingen.be - Non-native animal occurrences in Flanders and the Brussels Capital Region, Belgium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Waterbirds of the Botanic Garden Meise
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

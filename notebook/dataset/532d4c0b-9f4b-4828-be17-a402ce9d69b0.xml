@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="532d4c0b-9f4b-4828-be17-a402ce9d69b0"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xecp6u</alternateIdentifier>
+        <alternateIdentifier>532d4c0b-9f4b-4828-be17-a402ce9d69b0</alternateIdentifier>
+        <alternateIdentifier>http://apm-ipt.br.fgov.be:8080/ipt-2.3.5/resource?r=birdmonitoringmeise</alternateIdentifier>
+    <title>Bird Monitoring 2017, Meise Botanic Garden</title>
+    <creator>
+    <individualName>
+<givenName>Alberto</givenName>          <surName>Girotto</surName>
+    </individualName>
+<electronicMailAddress>albi.giro@gmail.com</electronicMailAddress>      <userId directory="https://www.linkedin.com/profile/view?id=">alberto-girotto-47a94a129</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Botanic Garden Meise</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<phone>+3222600920</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Alberto</givenName>          <surName>Girotto</surName>
+    </individualName>
+<organizationName>Meise Botanic Garden</organizationName><positionName>Intern</positionName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>albi.giro@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Botanic Garden Meise</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<phone>+3222600920</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+    </metadataProvider>
+      <pubDate>
+      2018-04-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>In 2017 we surveyed the birds of the Botanic Garden to establish baseline data for long-term monitoring. On 18 days between January and June two transects were walked and all the birds recorded in a systematic manner.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>distance sampling</keyword>
+              <keyword>bird monitoring</keyword>
+              <keyword>transect</keyword>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The park of Meise Botanic Garden</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>4.318</westBoundingCoordinate>
+                      <eastBoundingCoordinate>4.336</eastBoundingCoordinate>
+                      <northBoundingCoordinate>50.934</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.923</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-01-16
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-06-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Birds (Aves)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>birds</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Meise Botanic Garden</organizationName>    <address>
+<city>Meise</city><postalCode>3080</postalCode><country>BELGIUM</country>    </address>
+<phone>494652147</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+<organizationName>Botanic Garden Meise</organizationName>    <address>
+<deliveryPoint>Nieuwelaan 38</deliveryPoint><city>Meise</city><postalCode>1860</postalCode><country>BELGIUM</country>    </address>
+<phone>+3222600920</phone><electronicMailAddress>quentin.groom@plantentuinmeise.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Transect 1
+subtransect 1 started 50.927145, 4.333116; ended 50.928410, 4.332216</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>subtransect 2 started 50.928410, 4.332216; ended 50.930470, 4.331395</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>subtransect 3 started 50.930470, 4.331395; ended 50.932425, 4.329251</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Transect 2
+subtransect 4 started 50.930976, 4.323739; ended 50.928840, 4.325394</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>subtransect 5 started 50.928840, 4.325394; ended 50.928773, 4.323168</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>subtransect 6 started 50.928773, 4.323168; ended 50.926718, 4.322916</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>subtransect 7 started 50.926718, 4.322916; ended 50.925204, 4.326091</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The transects were contained within the park of Meise Botanic Garden, Meise, Belgium</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Two transects were selected being approximately parallel to one another follow paths within the Garden that pass through semi-natural woodland, lawns and the collections of the Garden. Both transects were about 650m long and they were further divided into three (eastern transect) or four (western transect) sub-transects.
+Using the BTO Recording Sheets all birds all birds were recorded on the route while walking slowly. The BTO provides bird codes to make recording simpler.  All birds were recorded to the side of the route. Birds behind the observer at the start of a transect of in front of the observer at the beginning were ignored. Duplicate counting of birds was avoided. For flying birds, if they were flying right over head they were record within 25 meters (distance 1), otherwise I&apos;d record above 100m (distance 3).</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Bird monitoring in Meise Botanic Garden</title>
+          <personnel>
+    <individualName>
+<givenName>Alberto</givenName>          <surName>Girotto</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Quentin</givenName>          <surName>Groom</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-0596-5376</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>A survey to provide baseline data on the variety and abundance of birds at Meise Botanic Garden.</para>
+          </abstract>
+          <funding>
+              <para>none</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The park of Meise Botanic Garden and its living plant collections. A mixture of deciduous woodland and lawns.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The monitoring design was based on the BTO/JNCC/RSPB Breeding Bird Survey methodology (https://www.bto.org/sites/default/files/bbs_instructions_2018.pdf).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-01T08:07:36Z</dateStamp>
+      <citation>Girotto A, Groom Q (2018). Bird Monitoring 2017, Meise Botanic Garden. Version 1.6. Botanic Garden Meise. Sampling event dataset https://doi.org/10.15468/xecp6u accessed via GBIF.org on 2021-01-01.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

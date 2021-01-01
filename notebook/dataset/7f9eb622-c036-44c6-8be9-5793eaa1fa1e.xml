@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7f9eb622-c036-44c6-8be9-5793eaa1fa1e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lj0udq</alternateIdentifier>
+        <alternateIdentifier>https://ipt.inbo.be/resource?r=watervogels-occurrences</alternateIdentifier>
+        <alternateIdentifier>http://data.inbo.be/ipt/resource?r=watervogels-occurrences</alternateIdentifier>
+        <alternateIdentifier>http://data.inbo.be/ipt/resource.do?r=watervogels-occurrences</alternateIdentifier>
+        <alternateIdentifier>7f9eb622-c036-44c6-8be9-5793eaa1fa1e</alternateIdentifier>
+    <title>Watervogels - Wintering waterbirds in Flanders, Belgium</title>
+    <creator>
+    <individualName>
+<givenName>Koen</givenName>          <surName>Devos</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>koen.devos@inbo.be</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Filiep</givenName>          <surName>T&apos;Jollyn</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>filiep.tjollyn@inbo.be</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Dimitri</givenName>          <surName>Brosens</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO) / Belgian Biodiversity Platform</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress><onlineUrl>http://www.biodiversity.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-0846-9116</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Koen</givenName>          <surName>Devos</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>koen.devos@inbo.be</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Dimitri</givenName>          <surName>Brosens</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO) / Belgian Biodiversity Platform</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress><onlineUrl>http://www.biodiversity.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-0846-9116</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+    </metadataProvider>
+      <pubDate>
+      2019-12-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>&lt;p&gt;Watervogels - Wintering waterbirds in Flanders, Belgium is a sampling event dataset published by the Research Institute for Nature and Forest (INBO). It contains information on more than 94,000 sampling events (bird counts) with over 720,000 observations (and zero counts when there is no associated occurrence) for the period 1991-2016, covering 167 species in over 1,100 wetland sites. The aim of these bird counts is to gather information on the size, distribution and long term trends of wintering waterbird populations in Flanders. These data are also used to assess the importance of individual sites for waterbirds, using quantitative criteria. Furthermore, the waterbird counts contribute to international monitoring programs, such as the International Waterbird Census (coordinated by Wetlands International) and fulfil some of the objectives of the European Bird Directive, the Ramsar Convention, and the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA). Here the dataset is published as a standardized Darwin Core Archive and includes for each event: a stable eventID, date and location of observation, and a short description of the sampling protocol, effort and conditions (in the event core), supplemented with specific information for each occurrence: a stable occurrenceID, the scientific name and higher classification of the observed species, the number of recorded individuals, and a reference to the observer of the record (in the occurrence extension). Issues with the dataset can be reported at https://github.com/inbo/data-publication/issues&lt;/p&gt;
+&lt;p&gt;The following information is not included in this dataset and available upon request: roost site counts, counts from historical (inactive) locations.&lt;/p&gt;
+&lt;p&gt;We have released this dataset to the public domain under a Creative Commons Zero waiver. We would appreciate it if you follow the INBO norms for data use (https://www.inbo.be/en/norms-data-use) when using the data. If you have any questions regarding this dataset, don&amp;#39;t hesitate to contact us via the contact information provided in the metadata or via opendata&amp;#64;inbo.be.&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>wetlands</keyword>
+              <keyword>population trends</keyword>
+              <keyword>birds</keyword>
+              <keyword>monitoring</keyword>
+              <keyword>distribution</keyword>
+              <keyword>waterbirds</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://watervogels.inbo.be</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The birds were counted at over 1,100 predefined locations (waterVogelTelgebieden), covering the wetlands and coast of Flanders, Belgium. No birds were counted at sea. These locations are visited regularly during the wintering and migration season (mid-monthly, from October to March). For each event, the code for the waterVogelTelgebied is indicated in locationID.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>2.54</westBoundingCoordinate>
+                      <eastBoundingCoordinate>5.92</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.51</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.68</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1991-10-13
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-03-24
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The term waterbirds is used as defined in the AEWA and thus does not only include species which belong to the order Anseriformes, but all species which are ecologically dependent on wetlands for at least part of their annual cycle. The dataset includes 167 species (as well as a number of genera, subspecies and forms) belonging to the following species groups: divers, grebes, cormorants, herons, storks, spoonbills, swans, geese, ducks, coots, rails, cranes, waders, gulls, and terns. Non-native species which have been introduced or escaped are also included. The Dutch vernacular name is indicated in vernacularName, the Euring code in taxonID.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                          <commonName>animals</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>birds</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcidae</taxonRankValue>
+                          <commonName>auks</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                          <commonName>ducks, geese &amp; swans</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                          <commonName>herons</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                          <commonName>plovers, dotterels &amp; lapwings</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ciconiidae</taxonRankValue>
+                          <commonName>storks</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gaviidae</taxonRankValue>
+                          <commonName>divers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gruidae</taxonRankValue>
+                          <commonName>cranes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Haematopodidae</taxonRankValue>
+                          <commonName>oystercatchers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                          <commonName>gulls</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pelecanidae</taxonRankValue>
+                          <commonName>pelicans</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phalacrocoracidae</taxonRankValue>
+                          <commonName>cormorants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phoenicopteridae</taxonRankValue>
+                          <commonName>flamingos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podicipedidae</taxonRankValue>
+                          <commonName>grebes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                          <commonName>rails</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                          <commonName>avocets &amp; stilts</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                          <commonName>sandpipers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Stercorariidae</taxonRankValue>
+                          <commonName>skuas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                          <commonName>ibises &amp; spoonbills</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Counting waterbirds has a long tradition in Flanders, going back to the 1960s. The aim of this long-running monitoring scheme is to gather reliable information on the numbers, trends, and distribution of these species during their winter and migration period. Through this project, required data become available for international treaties and conventions such as the European Union (EU) Birds and Habitats Directives, the Ramsar Convention on Wetlands, and the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA). These results are also used for informed decision-making by conservation bodies, planners and developers, and contribute to the sustainable use and management of wetlands and their dependent waterbirds.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Koen</givenName>          <surName>Devos</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName>    <address>
+<country>BELGIUM</country>    </address>
+<electronicMailAddress>koen.devos@inbo.be</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Indicate date, start time and end time (all expressed in eventDate).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Indicate observer (recordedBy).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Indicate specific count area (verbatimLocality). The area has a unique ID (locationID) and linked higher geography (continent, countryCode). Together with the time information, this constitutes a count, which has a unique ID as well (eventID).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Indicate count method (samplingProtocol) and achieved effort (samplingEffort).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Indicate the count conditions, such as samplingConditions, samplingCoverage, snow, ice, and waterLevel (all expressed as json in dynamicProperties).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>For each observed waterbird species (scientificName), indicate the estimated number of birds (individualCount).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Each record gets a GUID, based on the ID assigned by the database (occurrenceID).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Taxonomy information is added based on the scientific name and expressed in kingdom, phylum, class, taxonRank, nomenclaturalCode, and scientificNameAuthorship, as well as an Euring code code (taxonID) and Dutch vernacular name vernacularName.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Dataset metadata information is added (type, basisOfRecord, language, datasetID, datasetName, institutionCode) as well the rights holder (rightsHolder), the license (rights) and data use norms (accessRights).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The bird counts are organized as a regional network &quot;Waterbird counts Flanders&quot; coordinated by the Research Institute for Nature and Forest (INBO). The network divides Flanders, Belgium into 24 regions, each of them with a local coordinator. The fieldwork is mainly done by skilled volunteer birdwatchers, often working together within local bird clubs. The NGO Natuurpunt (http://natuurpunt.be) supports the majority of these bird clubs and volunteers, and thereby delivers an important contribution to the waterbird project. A number of large and important wetland areas are counted by INBO staff (especially in the Scheldt estuary and along the Yser river). To allow reliable comparisons between years and areas, the counts are aimed for maximum standardization. Every winter, birds are counted in six monthly censuses from October to March, on the weekend the closest to the 15th of the month. Counts use the same methodology and are made at 1,000+ predefined locations (see Geographic coverage), covering all kind of wetland habitats in Flanders, such as lakes, ponds, reservoirs, and rivers. Also agricultural areas, often holding large numbers of waterbirds (such as wintering geese), are included. Although the project aims for a (nearly) complete coverage of all areas hosting substantial numbers of waterbirds, this is hard to achieve and the number of counted sites varies between months and years. During counts, numbers of all waterbird species are recorded. This includes divers, grebes, cormorants, herons and allies, swans, geese, ducks, coots and rails. Waders and gulls (optional) have been added on the species list in 1999. Counts of coastal waders are however available since 1992. Through the site http://www.watervogels.inbo.be, volunteers can enter their count and additional data directly into a central database. This database is managed by the INBO and is the source for this dataset.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The counts are done at predefined locations, called waterVogelTelgebied. The name of each waterVogelTelgebied is indicated in waterbody, while its ID is indicated in locationID. The polygon shape for most of these localities can be found at http://git.io/vvDVL (codes there should be prefixed with &quot;INBO:WATERVOGELS:LOCATION&quot;). The geographic coordinates for the occurrences represent the centroid of the locality (see http://git.io/vvDVR for the procedure). Within the borders of these areas, present waterbird species are counted as completely as possible. Clearly visible areas are often counted from one point with a telescope. Large and less visible areas are usually traversed on foot, by bicycle or by car. A special case are the monthly counts on the Zeeschelde which are performed from boats by INBO staff. The count method (e.g. survey from land) is indicated in samplingProtocol, while the achieved effort (e.g. complete survey of location &amp; all waterbirds except geese counted) is indicated in samplingEffort. Events without associated occurrences represent zero counts. To reduce the likelihood of birds being double counted or missed, the counts are synchronized as much as possible. Counts are organized on the weekend the closest to the 15th of the month. In large areas with a high probability of local movements, observers are asked to pay special attention to count more or less simultaneously, preferably with multiple observers. Birds are counted during daytime, while specific high tide counts are organized for typical coastal waders (hiding on high tide gather places). The Zeeschelde on the contrary, is mainly counted at low tide due to better visibility of the birds. For some species that are dispersed widely during the day, simultaneous counts on the roost sites are a better alternative for gathering information on their population size. Each winter, supplementary counts are organized for Great Cormorant (since 2003), gulls and Eurasian Curlew. These roost counts are however not included in this database. Keep in mind that covering of the sites differs between months and years. Calculations of trends and population sizes therefore have to deal with missing values.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All records are validated.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-01T08:07:36Z</dateStamp>
+      <citation identifier="https://doi.org/10.15468/lj0udq">Devos K, T&apos;Jollyn F, Brosens D, Desmet P (2019). Watervogels - Wintering waterbirds in Flanders, Belgium. Version 3.8. Research Institute for Nature and Forest (INBO). Sampling event dataset https://doi.org/10.15468/lj0udq accessed via GBIF.org on 2021-01-01.</citation>
+              <bibliography>
+      <citation>Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) http://www.unep-aewa.org/</citation>
+      <citation>Birds Directive http://ec.europa.eu/environment/nature/legislation/birdsdirective/index_en.htm</citation>
+      <citation>Euring exchange-code 2000, species http://blx1.bto.org/euringcodes/species.jsp</citation>
+      <citation>Habitats Directive http://ec.europa.eu/environment/nature/legislation/habitatsdirective/index_en.htm</citation>
+      <citation>Ramsar Convention on Wetlands http://www.ramsar.org/</citation>
+              </bibliography>
+              <resourceLogoUrl>https://ipt.inbo.be/logo.do?r=watervogels-occurrences</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

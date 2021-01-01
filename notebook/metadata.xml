@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.bgf9gb"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0147088-200613084148143</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.bgf9gb</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-01-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;Geometry POLYGON((4.3328 50.93303,4.32604 50.93445,4.31713 50.9285,4.32046 50.92464,4.32936 50.92282,4.33602 50.92579,4.3328 50.93303))&quot;,
+    &quot;HasGeospatialIssue is false&quot;,
+    &quot;OccurrenceStatus is Present&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Chrysomelidae of Central Europe
+1 records from Bird tracking - GPS tracking of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast
+1 records from Geographically tagged INSDC sequences
+1 records from Xeno-canto - Bird sounds from around the world
+1 records from NMNH Paleobiology Specimen Records
+1 records from Ecological typology  of waterways, vegetation surveys
+1 records from International Barcode of Life project (iBOL)
+2 records from NMNH Extant Specimen Records
+2 records from CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+2 records from Biodiversity4all Research-Grade Observations
+4 records from Natural History Museum Rotterdam - Specimens
+4 records from My naturesounds - nature observations with sound recordings
+4 records from Saltabel - Orthoptera in Belgium
+5 records from Naturalis Biodiversity Center (NL) - Botany
+6 records from Muskrat captures in Flanders, Belgium
+7 records from Tropicos Specimen Data
+12 records from Zomerganzen - Summering geese management and population counts in Flanders, Belgium
+12 records from Belgian Coccinellidae - Ladybird beetles in Belgium
+42 records from EOD - eBird Observation Dataset
+66 records from Species observations during citizen science expeditions
+76 records from Pl@ntNet observations
+102 records from Broedvogels - Atlas of the breeding birds in Flanders 2000-2002
+103 records from Waarnemingen.be - Non-native plant occurrences in Flanders and the Brussels Capital Region, Belgium
+215 records from Pl@ntNet automatically identified occurrences
+261 records from Meise Botanic Garden Herbarium (BR)
+272 records from Plants galls
+954 records from iNaturalist Research-grade Observations
+1037 records from Florabank1 - A grid-based database on vascular plant distribution in the northern part of Belgium (Flanders and the Brussels Capital region)
+1324 records from Miscellaneous Vascular Plants
+1376 records from Bird Monitoring 2017, Meise Botanic Garden
+1523 records from Watervogels - Wintering waterbirds in Flanders, Belgium
+3129 records from Waarnemingen.be - Non-native animal occurrences in Flanders and the Brussels Capital Region, Belgium
+8814 records from Waterbirds of the Botanic Garden Meise
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-01T08:07:37Z</dateStamp>
+      <citation identifier="10.15468/dl.bgf9gb">GBIF Occurrence Download 10.15468/dl.bgf9gb</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0147088-200613084148143.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

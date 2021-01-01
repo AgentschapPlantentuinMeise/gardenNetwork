@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="83e20573-f7dd-4852-9159-21566e1e691e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/02omly</alternateIdentifier>
+        <alternateIdentifier>http://data.inbo.be/ipt/resource?r=bird-tracking-gull-occurrences</alternateIdentifier>
+        <alternateIdentifier>83e20573-f7dd-4852-9159-21566e1e691e</alternateIdentifier>
+    <title>Bird tracking - GPS tracking of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast</title>
+    <creator>
+    <individualName>
+<givenName>Eric W.M.</givenName>          <surName>Stienen</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Senior scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>eric.stienen@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>LifeWatch project coordinator</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress><onlineUrl>http://lifewatch.inbo.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Bart</givenName>          <surName>Aelterman</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>LifeWatch data scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>bart.aelterman@inbo.be</electronicMailAddress><onlineUrl>http://lifewatch.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Wouter</givenName>          <surName>Courtens</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Senior scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>wouter.courtens@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Feys</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Technical assistant</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>simon.feys@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Nicolas</givenName>          <surName>Vanermen</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>nicolas.vanermen@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Hilbran</givenName>          <surName>Verstraete</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>hilbran.verstraete@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Van de walle</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Technical assistant</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>marc.vandewalle@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Klaas</givenName>          <surName>Deneudt</surName>
+    </individualName>
+<organizationName>Flanders Marine Institute (VLIZ)</organizationName><positionName>Data centre project manager</positionName>    <address>
+<deliveryPoint>Wandelaarkaai 7</deliveryPoint><city>Ostend</city><administrativeArea>West Flanders</administrativeArea><postalCode>8400</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>klaas.deneudt@vliz.be</electronicMailAddress><onlineUrl>http://www.vliz.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Hernandez</surName>
+    </individualName>
+<organizationName>Flanders Marine Institute (VLIZ)</organizationName><positionName>Data centre manager</positionName>    <address>
+<deliveryPoint>Wandelaarkaai 7</deliveryPoint><city>Ostend</city><administrativeArea>West Flanders</administrativeArea><postalCode>8400</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>francisco.hernandez@vliz.be</electronicMailAddress><onlineUrl>http://www.vliz.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Robin</givenName>          <surName>Houthoofdt</surName>
+    </individualName>
+<organizationName>Flanders Marine Institute (VLIZ)</organizationName><positionName>Developer</positionName>    <address>
+<deliveryPoint>Wandelaarkaai 7</deliveryPoint><city>Ostend</city><administrativeArea>West Flanders</administrativeArea><postalCode>8400</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>robin.houthoofdt@vliz.be</electronicMailAddress><onlineUrl>http://www.vliz.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Bart</givenName>          <surName>Vanhoorne</surName>
+    </individualName>
+<organizationName>Flanders Marine Institute (VLIZ)</organizationName><positionName>Senior developer</positionName>    <address>
+<deliveryPoint>Wandelaarkaai 7</deliveryPoint><city>Ostend</city><administrativeArea>West Flanders</administrativeArea><postalCode>8400</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>bart.vanhoorne@vliz.be</electronicMailAddress><onlineUrl>http://www.vliz.be</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Willem</givenName>          <surName>Bouten</surName>
+    </individualName>
+<organizationName>Institute for Biodiversity and Ecosystem Dynamics (IBED)</organizationName><positionName>Chair of Computational Geo-Ecology</positionName>    <address>
+<deliveryPoint>University of Amsterdam, Science Park 904</deliveryPoint><city>Amsterdam</city><administrativeArea>North Holland</administrativeArea><postalCode>1098 XH</postalCode><country>NETHERLANDS</country>    </address>
+<electronicMailAddress>w.bouten@uva.nl</electronicMailAddress><onlineUrl>http://uva-bits.nl</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-5250-8872</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Roland-Jan</givenName>          <surName>Buijs</surName>
+    </individualName>
+<organizationName>Buijs Eco Consult B.V.</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>Philips van Dorpstraat 49</deliveryPoint><city>Oud-Vossemeer</city><administrativeArea>Zeeland</administrativeArea><postalCode>4698 RV</postalCode><country>NETHERLANDS</country>    </address>
+<electronicMailAddress>rjbuijs@buijsecoconsult.nl</electronicMailAddress><onlineUrl>http://www.buijsecoconsult.nl/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Marwa M.</givenName>          <surName>Kavelaars</surName>
+    </individualName>
+<organizationName>Ethology (ETHO)</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>University of Antwerp, Universiteitsplein 1</deliveryPoint><city>Antwerp</city><administrativeArea>Antwerp</administrativeArea><postalCode>2610</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>marwa.kavelaars@uantwerpen.be</electronicMailAddress><onlineUrl>https://www.uantwerpen.be/en/rg/etho/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Wendt</givenName>          <surName>Müller</surName>
+    </individualName>
+<organizationName>Ethology (ETHO)</organizationName><positionName>Assistant professor</positionName>    <address>
+<deliveryPoint>University of Antwerp, Universiteitsplein 1</deliveryPoint><city>Antwerp</city><administrativeArea>Antwerp</administrativeArea><postalCode>2610</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>wendt.mueller@uantwerpen.be</electronicMailAddress><onlineUrl>https://www.uantwerpen.be/en/rg/etho/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>David</givenName>          <surName>Herman</surName>
+    </individualName>
+<organizationName>Terrestrial Ecology Unit (TEREC)</organizationName><positionName>Technical assistant</positionName>    <address>
+<deliveryPoint>Ghent University, K.L. Ledeganckstraat 35</deliveryPoint><city>Ghent</city><administrativeArea>East Flanders</administrativeArea><postalCode>9000</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>info@starlingreizen.be</electronicMailAddress><onlineUrl>http://www.ecology.ugent.be/terec/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Hans</givenName>          <surName>Matheve</surName>
+    </individualName>
+<organizationName>Terrestrial Ecology Unit (TEREC)</organizationName><positionName>Technical assistant</positionName>    <address>
+<deliveryPoint>Ghent University, K.L. Ledeganckstraat 35</deliveryPoint><city>Ghent</city><administrativeArea>East Flanders</administrativeArea><postalCode>9000</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>hans.matheve@ugent.be</electronicMailAddress><onlineUrl>http://www.ecology.ugent.be/terec/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Alejandro</givenName>          <surName>Sotillo</surName>
+    </individualName>
+<organizationName>Terrestrial Ecology Unit (TEREC)</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>Ghent University, K.L. Ledeganckstraat 35</deliveryPoint><city>Ghent</city><administrativeArea>East Flanders</administrativeArea><postalCode>9000</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>alejandro.sotillogonzales@ugent.be</electronicMailAddress><onlineUrl>http://www.ecology.ugent.be/terec/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Luc</givenName>          <surName>Lens</surName>
+    </individualName>
+<organizationName>Terrestrial Ecology Unit (TEREC)</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Terrestrial Ecology Unit (TEREC)</deliveryPoint><city>Ghent</city><administrativeArea>East Flanders</administrativeArea><postalCode>9000</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>luc.lens@ugent.be</electronicMailAddress><onlineUrl>http://www.ecology.ugent.be/terec/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Eric W.M.</givenName>          <surName>Stienen</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Senior scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>eric.stienen@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>LifeWatch project coordinator</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress><onlineUrl>http://lifewatch.inbo.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+    </metadataProvider>
+      <pubDate>
+      2017-04-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Bird tracking - GPS tracking of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast is a species occurrence dataset published by the Research Institute for Nature and Forest (INBO) and described (v5.5) in Stienen et al. 2016 (https://doi.org/10.3897/zookeys.555.6173). The dataset contains close to 8.5 million occurrences (GPS fixes) recorded by GPS trackers mounted on 108 Lesser Black-backed Gulls and 37 Herring Gulls breeding at the Belgian and Dutch coast. The trackers are developed by the University of Amsterdam Bird Tracking System (UvA-BiTS, http://www.uva-bits.nl) and allow to study the gulls&amp;#39; habitat use and migration behaviour in great detail. Our bird tracking network is operational since 2013 and is maintained and used by the INBO, the Flanders Marine Institute (VLIZ), UvA-BiTS, Ghent University (UGent), and the University of Antwerp (UA). See the dataset metadata for contact information, scope, and methodology. Issues with the dataset can be reported at https://github.com/inbo/data-publication/tree/master/datasets/bird-tracking-gull-occurrences
+The following information is not included in the dataset and available upon request: outliers, speed, temperature, barometric pressure, accelerometer data, GPS metadata (fix time, number of satellites used, vertical accuracy), bird biometrics data measured during tagging (bill length, bill depth, tarsus length, wing length, body mass), life history data (day of ringing, age, resightings by volunteers), as well as growth data of chicks.
+To allow anyone to use this dataset, we have released the data to the public domain under a Creative Commons Zero waiver (http://creativecommons.org/publicdomain/zero/1.0/). We would appreciate however, if you read and follow these norms for data use (http://www.inbo.be/en/norms-for-data-use) and provide a link to the original dataset (https://doi.org/10.15468/02omly) whenever possible. If you use these data for a scientific paper, please cite the dataset following the applicable citation norms and/or consider us for co-authorship. We are always interested to know how you have used or visualized the data, or to provide more information, so please contact us via the contact information provided in the metadata, opendata&amp;#64;inbo.be or https://twitter.com/LifeWatchINBO.
+The bird tracking network used to collect these data is set up and maintained by the INBO and VLIZ as part of the Flemish contribution to LifeWatch.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword></keyword>
+              <keyword>Larus fuscus</keyword>
+              <keyword>Herring Gull</keyword>
+              <keyword>animal movement</keyword>
+              <keyword>LifeWatch</keyword>
+              <keyword>bird tracking</keyword>
+              <keyword>Larus argentatus</keyword>
+              <keyword>UvA-BiTS</keyword>
+              <keyword>Lesser Black-backed Gull</keyword>
+              <keyword>habitat use</keyword>
+              <keyword>migration</keyword>
+              <keyword>GPS tracking</keyword>
+              <keyword>MachineObservation</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.lifewatch.be/en/gps-tracking-network-large-birds</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The tracked birds breed at the southern North Sea coast in three colonies, located in the ports of Zeebrugge (Belgium), Ostend (Belgium) and Vlissingen-Oost (the Netherlands). During the breeding season, their foraging range includes the west of Belgium and the Netherlands, northern France, the North Sea, and the English Channel. The Lesser Black-backed Gulls migrate south in winter, mainly hibernating in the south of Spain, Portugal, and North Africa.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-25</westBoundingCoordinate>
+                      <eastBoundingCoordinate>10</eastBoundingCoordinate>
+                      <northBoundingCoordinate>60</northBoundingCoordinate>
+                      <southBoundingCoordinate>10</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-05-17
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-08-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The dataset contains tracking data from 108 Lesser Black-Backed Gulls (Larus fuscus) and 37 Herring Gulls (Larus argentatus) breeding at the southern North Sea coast.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                          <commonName>animals</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>birds</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                          <commonName>gulls</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Larus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Larus fuscus</taxonRankValue>
+                          <commonName>Lesser Black-backed Gull</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Larus argentatus</taxonRankValue>
+                          <commonName>Herring Gull</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>As part of our terrestrial and marine observatory for LifeWatch (http://lifewatch.inbo.be), the Research Institute for Nature and Forest (INBO), the Flanders Marine Institute (VLIZ), Ghent University (UGent), and the University of Antwerp (UA) are tracking large gull species with lightweight, solar powered GPS trackers. The project builds upon the extensive knowledge the INBO has acquired since 1999, studying in particular postnuptial migration, as well as mate and site fidelity of large gulls, by means of sightings of colour-marked individuals ringed in Belgium and via individual-based life-history studies by UGent and UA. The data collected through this bird tracking network allows to study the migration patterns and habitat use of the gulls in more detail. Furthermore, data collection is no longer biased towards locations where observers can see colour-ringed birds. To allow greater use of the data beyond our research questions, all data are periodically published as open data.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>biannually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Eric W.M.</givenName>          <surName>Stienen</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>Senior scientist</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>eric.stienen@inbo.be</electronicMailAddress><onlineUrl>http://www.inbo.be</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Desmet</surName>
+    </individualName>
+<organizationName>Research Institute for Nature and Forest (INBO)</organizationName><positionName>LifeWatch project coordinator</positionName>    <address>
+<deliveryPoint>Kliniekstraat 25</deliveryPoint><city>Brussels</city><administrativeArea>Brussels Capital Region</administrativeArea><postalCode>1070</postalCode><country>BELGIUM</country>    </address>
+<electronicMailAddress>peter.desmet@inbo.be</electronicMailAddress><onlineUrl>http://lifewatch.inbo.be</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-8442-8025</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Researcher captures bird, takes biometrics, attaches GPS tracker, and releases bird.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Researcher sets a measurement scheme, which can be updated anytime.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>GPS tracker records data.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>GPS tracker automatically receives new measurement settings and transmits recorded data when a connection can be established with the base station at the colony.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Recorded data are automatically harvested, post-processed, and stored in a central PostgreSQL database at UvA-BiTS.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Tracking data specific to LifeWatch Flanders are exported, cleaned, and enhanced monthly with a bird tracking ETL.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>LifeWatch INBO team periodically (re)publishes data as a Darwin Core Archive, registered with GBIF.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data stream stops when bird no longer returns to colony or if GPS tracker no longer functions (typical tracker lifespan: 2-3 years).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The birds were trapped and tagged at or near their breeding colony at the southern North Sea coast.
+
+The colony of Zeebrugge is situated in the western part of the port (51.341 latitude, 3.182 longitude) at sites that are not used for port activities and on rooftops. The first Herring Gulls (HG) nested here in 1987, followed by the first breeding record of Lesser Black-backed Gull (LBBG) in 1991. In the 1990s, the number of breeding pairs strongly increased, with a maximum of 2,336 pairs of HG and 4,760 pairs of LBBG in 2011 (Stienen et al. 2015). Maximum numbers amounted to 2.6% and 1.2% of the biogeographic populations of LBBG and HG (Wetlands International 2015). After 2011 the number of gulls strongly declined due to habitat loss and the presence of foxes (Vulpes vulpes). In the period 2000-2010, Zeebrugge hosted on average 91% of all large gulls in Belgium. This proportion decreased to 33% in 2015 (Stienen et al. 2015).
+
+In the colony of Ostend (51.233 latitude, 2.931 longitude), breeding started in 1993. Here the the numbers of breeding pairs are still increasing with a maximum of 505 pairs of HG and 551 pairs of LBBG in 2015 (data INBO). In Ostend most gulls breed on rooftops both in industrial areas and in the town itself.
+
+The colony of Vlissingen-Oost also know as “Sloegebied” (51.450 latitude, 3.689 longitude) is located in the industrial port area near Vlissingen. Here the gulls nest on the grassy grounds that are not yet in use for port activities. LBBG started breeding in 1984, and the area is now the second biggest colony of LBBG in the southwestern part of the Netherlands. The numbers of breeding pairs increased from a few hundred in the second part of the nineties to 5,220 pairs in 2011. HG started breeding in 1977 (5-10 pairs) with a maximum of 4,353 pairs in 2008 (Strucker et al. 2013). In 2014 the colony hosted 4,460 pairs of LBBG and 2,276 pairs of HG (Strucker et al. 2015).
+
+The number of tagged birds and their trap location per year are:
+
+* 2013: 5 HG nesting on the roof of the Vismijn in Ostend and 22 LBBG nesting in the port of Zeebrugge.
+* 2014: 8 HB nesting on the roof of the Vismijn in Ostend, 1 HG and 24 LBBG nesting in the port of Zeebrugge, and 3 HG feeding on the Visserskaai in Ostend (using a small cannon net).
+* 2015: 9 HG nesting on the roof of the Vismijn in Ostend, 13 LBBG nesting in the port of Zeebrugge, and 16 LBBG nesting in Vlissingen-Oost.
+* 2016: 11 HG and 6 LBBG nesting on the roof of the Vismijn in Ostend, 13 LBBG nesting in the port of Zeebrugge, and 18 LBBG nesting in Vlissingen-Oost.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The birds are tracked with the University of Amsterdam Bird Tracking System (UvA-BiTS, http://www.uva-bits.nl). The system is described in detail in Bouten et al. 2013. The lightweight, solar powered GPS trackers periodically record the 3D position and air temperature, and can be configured to collect body movements with the built-in tri-axial accelerometer as well. The system allows to remotely set or change the measurement interval per tracker: the actual interval between measurements is provided in samplingEffort as seconds_since_last_occurrence.
+
+The data are stored on the tracker, until these can be transmitted automatically and wireless to a base station using the built-in ZigBee transceiver with whip antenna. This receiver is also used to receive new measurement settings. The spatial range for this communication is restricted to the location of the base station (or antenna network), which is placed near the colony. Data cannot be retrieved from birds that do not return to the colony with the base station. For 4 of the 149 birds fitted with trackers no data were obtained (all LBBG) and their organismIDs (L909202, L907253, L909374, L907411) will thus not be found in the dataset. At the time of publication 92% of the individuals were tracked for more than 10 days and 46% for more than 100 days. The longest tracking period is 1202 days (a HG with organismID H903185).
+
+Data received by the base stations are automatically harvested, post-processed, and stored in a central PostgreSQL database at UvA-BiTS (http://www.uva-bits.nl/virtual-lab), which is accessible to the involved researchers only. The tracking data are exported, cleaned, and enriched for further use (https://github.com/inbo/bird-tracking-etl) on a monthly basis.
+
+To create this published version of the dataset, we standardize the data to Darwin Core using an R script (https://github.com/inbo/data-publication/blob/6f594a/datasets/bird-tracking-gull-occurrences/mapping/dwc-occurrence.Rmd), document and (re)publish the dataset on our IPT (http://dataset.inbo.be/bird-tracking-gull-occurrences), and have it harvested by the Global Biodiversity Information System (http://www.gbif.org/dataset/83e20573-f7dd-4852-9159-21566e1e691e). Issues or remarks regarding the data or this procedure can be reported at https://github.com/LifeWatchINBO/data-publication/tree/master/datasets/bird-tracking-gull-occurrences
+
+To extract data from one individual, one can use organismID, which contains the unique metal leg ring code of each bird. Tracker IDs are provided in dynamicProperties as device_info_serial. This field also contains the catch location of the bird (catch_location) and the tracking start date (tracking_started_at).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>See the section Sampling description for more details: the full processing of the data is publicly documented at https://github.com/inbo/data-publication/blob/6f594a/datasets/bird-tracking-gull-occurrences/mapping/dwc-occurrence.Rmd</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-01T08:07:34Z</dateStamp>
+      <citation identifier="http://doi.org/10.15468/02omly">Stienen E W, Desmet P, Aelterman B, Courtens W, Feys S, Vanermen N, Verstraete H, Van de walle M, Deneudt K, Hernandez F, Houthoofdt R, Vanhoorne B, Bouten W, Buijs R, Kavelaars M M, Müller W, Herman D, Matheve H, Sotillo A, Lens L (2017). Bird tracking - GPS tracking of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast. Version 5.6. Research Institute for Nature and Forest (INBO). Occurrence dataset https://doi.org/10.15468/02omly accessed via GBIF.org on 2021-01-01.</citation>
+              <bibliography>
+      <citation identifier="http://doi.org/10.3897/zookeys.555.6173">Stienen EWM, Desmet P, Aelterman B, Courtens W, Feys S, Vanermen N, Verstraete H, Van de walle M, Deneudt K, Hernandez F, Houthoofdt R, Vanhoorne B, Bouten W, Buijs RJ, Kavelaars MM, Müller W, Herman D, Matheve H, Sotillo A, Lens L (2016) GPS tracking data of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast. ZooKeys 555: 115–124. doi: 10.3897/zookeys.555.6173</citation>
+      <citation identifier="http://doi.org/10.1007/s10336-012-0908-1">Bouten W, Baaij EW, Shamoun-Baranes J, Camphuysen KCJ (2013) A flexible GPS tracking system for studying bird behaviour at multiple scales. Journal of Ornithology 154(2): 571-580. doi: 10.1007/s10336-012-0908-1</citation>
+      <citation>Stienen EWM, Courtens W, Van de walle M, Vanermen N, Verstraete H (2015) Monitoring van kustbroedvogels in de SBZ-V ‘Kustbroedvogels te Zeebrugge-Heist’ en de westelijke voorhaven van Zeebrugge tijdens het broedseizoen 2014. INBO.R.2015.7299133 Instituut voor Natuur- en Bosonderzoek, Brussels (in Dutch) https://www.inbo.be/nl/publicatie/monitoring-van-kustbroedvogels-de-sbz-v-kustbroedvogels-te-zeebrugge-heist</citation>
+      <citation>Strucker RCW, Hoekstein MSJ, Wolf PA (2013) Kustbroedvogels in het Deltagebied in 2012. RWS Centrale Informatievoorziening BM 13.18 (in Dutch)</citation>
+      <citation>Strucker RCW., Arts FA, Hoekstein MSJ (2015) Kustbroedvogels in het Deltagebied in 2014. RWS Centrale Informatievoorziening BM 15.07 (in Dutch)</citation>
+      <citation>Wetlands International (2015) “Waterbird Population Estimates”. Retrieved from http://wpe.wetlands.org on 2015-12-01</citation>
+              </bibliography>
+              <resourceLogoUrl>http://data.inbo.be/ipt/logo.do?r=bird-tracking-gull-occurrences</resourceLogoUrl>
+              <livingTimePeriod>breeding season 2013</livingTimePeriod>
+              <livingTimePeriod>migration/wintering season 2013-2014</livingTimePeriod>
+              <livingTimePeriod>breeding season 2014</livingTimePeriod>
+              <livingTimePeriod>migration/wintering season 2014-2015</livingTimePeriod>
+              <livingTimePeriod>breeding season 2015</livingTimePeriod>
+              <livingTimePeriod>migration/wintering season 2015-2016</livingTimePeriod>
+              <livingTimePeriod>breeding season 2016</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

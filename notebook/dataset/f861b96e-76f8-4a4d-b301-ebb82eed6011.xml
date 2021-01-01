@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f861b96e-76f8-4a4d-b301-ebb82eed6011"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pzo4mb</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=nils</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=nils</alternateIdentifier>
+        <alternateIdentifier>f861b96e-76f8-4a4d-b301-ebb82eed6011</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=nils</alternateIdentifier>
+    <title>Species observations during citizen science expeditions</title>
+    <creator>
+    <individualName>
+<givenName>Nils</givenName>          <surName>Valland</surName>
+    </individualName>
+<organizationName>NBIC</organizationName><positionName>senior advisor</positionName>    <address>
+<deliveryPoint>Høyskoleringen 9</deliveryPoint><city>Trondheim</city><postalCode>7020</postalCode><country>NORWAY</country>    </address>
+<phone>+4792412037</phone><electronicMailAddress>nils.valland@artsdatabanken.no</electronicMailAddress>      <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/nils-valland-79024b31?trk=nav_responsive_tab_profile_pic</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nils</givenName>          <surName>Valland</surName>
+    </individualName>
+<organizationName>NBIC</organizationName><positionName>senior advisor</positionName>    <address>
+<deliveryPoint>Høyskoleringen 9</deliveryPoint><city>Trondheim</city><postalCode>7020</postalCode><country>NORWAY</country>    </address>
+<phone>+4792412037</phone><electronicMailAddress>nils.valland@artsdatabanken.no</electronicMailAddress><onlineUrl>http://www.biodiversity.no/</onlineUrl>      <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/nils-valland-79024b31?trk=nav_responsive_tab_profile_pic</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Nils</givenName>          <surName>Valland</surName>
+    </individualName>
+<electronicMailAddress>nils.valland@artsdatabanken.no</electronicMailAddress><onlineUrl>http://www.biodiversity.no/</onlineUrl>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-05-28
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Species sigtings during recreational or professional citizen science expeditions</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>butterflies</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>birds</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>citizen-science</keyword>
+              <keywordThesaurus>https://www.wikidata.org/wiki/Q591763</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>From Portugal to Georgia</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-9.94</westBoundingCoordinate>
+                      <eastBoundingCoordinate>46.934</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.16</northBoundingCoordinate>
+                      <southBoundingCoordinate>34.24</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2010-05-09
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-09-03
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>irregular</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Nils</givenName>          <surName>Valland</surName>
+    </individualName>
+<organizationName>NBIC</organizationName><positionName>senior advisor</positionName>    <address>
+<deliveryPoint>Høyskoleringen 9</deliveryPoint><city>Trondheim</city><postalCode>7020</postalCode><country>NORWAY</country>    </address>
+<phone>+4792412037</phone><electronicMailAddress>nils.valland@artsdatabanken.no</electronicMailAddress>      <userId directory="https://www.linkedin.com/profile/view?id=">https://www.linkedin.com/in/nils-valland-79024b31?trk=nav_responsive_tab_profile_pic</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-01-01T08:07:35Z</dateStamp>
+      <citation>Valland N (2020). Species observations during citizen science expeditions. Version 1.20. The Norwegian Biodiversity Information Centre (NBIC). Occurrence dataset https://doi.org/10.15468/pzo4mb accessed via GBIF.org on 2021-01-01.</citation>
+              <resourceLogoUrl>http://www.artsdatabanken.no/Content/images/logoTop.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
